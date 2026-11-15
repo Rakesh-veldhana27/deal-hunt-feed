@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-15T10:57:15Z",
+ "generated_at": "2026-11-15T13:21:33Z",
  "deals": [
   {
    "url": "https://slickdeals.net/f/20311299-ymmv-open-box-excellent-best-buy-essentials-10w-magnetic-wireless-charger-for-iphone-or-devices-compatible-with-magsafe-qi-charging-2-99-free-shipping",
    "title": "Best Buy Open Box Excellent: Best Buy essentials 10W Magnetic Wireless Charger",
-   "price": "$3.00",
+   "price": "$3",
    "reg_price": null,
    "discount_pct": null,
    "merchant": "Best",
@@ -15,8 +15,8 @@
    "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/200x200/22358016.thumb?webp=1",
    "found_at": "2026-11-15T07:41:41Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -33,9 +33,9 @@
    "image": "https://slickdeals.net/attachment/9/4/6/5/6/8/450x450/22360977.thumb",
    "found_at": "2026-11-15T07:41:41Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 19.99
   },
   {
    "url": "https://slickdeals.net/f/20311461-monoprice-3-24awg-cat6-500mhz-crossover-ethernet-network-cable-gray-2-90-free-shipping-w-prime-or-on-35",
@@ -51,9 +51,9 @@
    "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/22357911.thumb",
    "found_at": "2026-11-15T07:41:41Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 2.9
   },
   {
    "url": "https://slickdeals.net/f/20311254-dewalt-20v-max-3-tool-brushless-combo-kit-w-drill-impact-driver-oscillating-tool-269-free-shipping",
@@ -68,10 +68,10 @@
    "code": null,
    "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/22357803.thumb",
    "found_at": "2026-11-15T07:41:41Z",
-   "category": "home",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 269.0
   },
   {
    "url": "https://slickdeals.net/f/20311911-23-99-gvdv-floor-lamp-62-2-in-tall-1-light-modern-beige-linen-shades-at-walmart-com",
@@ -81,15 +81,15 @@
    "discount_pct": null,
    "merchant": "GVDV",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/100x100/22359627.thumb",
    "found_at": "2026-11-15T07:41:41Z",
-   "category": "home",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 23.99
   },
   {
    "url": "https://slickdeals.net/f/20312202-ymmv-pok-mon-legends-z-a-nintendo-switch",
@@ -99,15 +99,15 @@
    "discount_pct": null,
    "merchant": "Nintendo",
    "store": "Nintendo",
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/2/3/1/9/5/9/4/100x100/22360263.thumb",
    "found_at": "2026-11-15T07:41:41Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 30.0
   },
   {
    "url": "https://slickdeals.net/f/20311716-2-lb-amazon-grocery-light-or-dark-brown-sugar-1-84-w-s-s-free-shipping-w-prime-or-on-35",
@@ -117,15 +117,15 @@
    "discount_pct": null,
    "merchant": "Amazon",
    "store": "Amazon",
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/100x100/22359057.thumb",
    "found_at": "2026-11-15T07:41:41Z",
-   "category": "grocery",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 1.84
   },
   {
    "url": "https://slickdeals.net/f/20311923-skil-12v-auto-hammer-2-0ah-battery-and-charger-71-24-walmart",
@@ -135,15 +135,15 @@
    "discount_pct": null,
    "merchant": "Skil",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/9/2/1/2/0/100x100/22359741.thumb",
    "found_at": "2026-11-15T07:41:41Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 71.24
   },
   {
    "url": "https://slickdeals.net/f/20312064-3-5-oz-mccormick-grill-mates-smokehouse-maple-seasoning-1-77-w-s-s-free-shipping-w-prime-or-on-35",
@@ -153,15 +153,15 @@
    "discount_pct": null,
    "merchant": "McCormick",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/3/5/6/4/5/1/8/7/100x100/22359936.thumb",
    "found_at": "2026-11-15T07:41:41Z",
-   "category": "home",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 1.77
   },
   {
    "url": "https://slickdeals.net/f/20311857-24-pack-8-oz-ensure-original-nutrition-shakes-dark-chocolate-butter-pecan-coffee-21-33-0-88-each-w-s-s-free-shipping-w-prime-or-on-35",
@@ -171,15 +171,15 @@
    "discount_pct": null,
    "merchant": "Ensure",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/3/5/6/4/5/1/8/7/100x100/22359372.thumb",
    "found_at": "2026-11-15T07:41:41Z",
-   "category": "grocery",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 21.33
   },
   {
    "url": "https://slickdeals.net/f/20311251-ninja-dualbrew-grounds-pods-hot-iced-coffee-maker-with-rapid-cold-brew-109-99-free-shipping-or-99-99-in-warehouse-costco-com",
@@ -189,15 +189,15 @@
    "discount_pct": null,
    "merchant": "Ninja",
    "store": "Ninja",
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/100x100/22357800.thumb",
    "found_at": "2026-11-15T07:41:41Z",
-   "category": "grocery",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 109.99
   },
   {
    "url": "https://slickdeals.net/f/20311647-antigravity-a1-8k-360-drone-essential-bundle-999-99-free-shipping",
@@ -207,15 +207,15 @@
    "discount_pct": null,
    "merchant": "Antigravity",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/6/9/0/3/5/8/100x100/22358844.thumb",
    "found_at": "2026-11-15T07:41:41Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 999.99
   },
   {
    "url": "https://slickdeals.net/f/20311566-hrlbrc-52000-count-3mm-28-color-jelly-resin-flatback-rhinestone-kit-w-storage-box-tweezers-glue-4-99-free-shipping-w-prime-or-on-35",
@@ -225,15 +225,15 @@
    "discount_pct": null,
    "merchant": "HRLbrc",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/100x100/22358577.thumb",
    "found_at": "2026-11-15T07:41:41Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 4.99
   },
   {
    "url": "https://slickdeals.net/f/20311644-65-inch-120hz-native-class-91a-series-4k-qned-evo-ai-smart-webos-tv",
@@ -243,15 +243,15 @@
    "discount_pct": null,
    "merchant": "Native",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/2/1/3/7/6/6/0/3/100x100/22358808.thumb",
    "found_at": "2026-11-15T07:41:41Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 399.99
   },
   {
    "url": "https://slickdeals.net/f/20311701-juovi-25w-10000mah-power-bank-w-built-in-usb-c-cable-black-9-99-w-coupon",
@@ -261,15 +261,15 @@
    "discount_pct": null,
    "merchant": "JUOVI",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://slickdeals.net/attachment/3/2/8/3/7/2/3/1/450x450/22358976.thumb",
    "found_at": "2026-11-15T07:41:41Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 9.99
   },
   {
    "url": "https://slickdeals.net/f/20310543-klein-tools-modbox-folding-portable-work-table-bench-99-98-free-shipping",
@@ -284,10 +284,10 @@
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/200x200/22355991.thumb?webp=1",
    "found_at": "2026-11-15T00:54:44Z",
-   "category": "home",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 100.0
   },
   {
    "url": "https://slickdeals.net/f/20311002-bougerv-portable-drip-coffee-maker-compatible-w-k-cup-ground-coffee-69-99-free-shipping",
@@ -302,10 +302,10 @@
    "code": null,
    "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22357212.thumb",
    "found_at": "2026-11-15T00:54:44Z",
-   "category": "grocery",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 69.99
   },
   {
    "url": "https://slickdeals.net/f/20310714-citizen-men-s-eco-drive-black-panther-42mm-stainless-steel-watch-aw1858-03w-242-50-free-shipping",
@@ -315,15 +315,15 @@
    "discount_pct": null,
    "merchant": "Citizen",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/6/3/5/4/7/1/100x100/22356366.thumb",
    "found_at": "2026-11-15T00:54:44Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 242.5
   },
   {
    "url": "https://slickdeals.net/f/20310999-select-epp-edu-samsung-oled-s95h-4k-165hz-smart-tv-55-1454-65-1656-more-free-shipping",
@@ -333,15 +333,15 @@
    "discount_pct": null,
    "merchant": "Samsung",
    "store": "Samsung",
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/100x100/22357206.thumb",
    "found_at": "2026-11-15T00:54:44Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 1454.0
   },
   {
    "url": "https://slickdeals.net/f/20310621-jbl-partybox-encore-2-portable-party-speaker-with-2-mics-199",
@@ -351,15 +351,15 @@
    "discount_pct": null,
    "merchant": "JBL",
    "store": "JBL",
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/2/1/1/0/3/3/6/100x100/22356183.thumb",
    "found_at": "2026-11-15T00:54:44Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 199.0
   },
   {
    "url": "https://slickdeals.net/f/20310846-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99",
@@ -369,15 +369,15 @@
    "discount_pct": null,
    "merchant": "GIGABYTE",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/100x100/22356657.thumb",
    "found_at": "2026-11-15T00:54:44Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 149.99
   },
   {
    "url": "https://slickdeals.net/f/20310657-jousen-men-s-non-slip-business-casual-shoes-dress-sneakers-brown-10-q06-starting-at-22-79-ac",
@@ -387,15 +387,15 @@
    "discount_pct": null,
    "merchant": "JOUSEN",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/100x100/22356255.thumb",
    "found_at": "2026-11-15T00:54:44Z",
-   "category": "fitness",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 22.79
   },
   {
    "url": "https://slickdeals.net/f/20310840-hyper-tough-262-piece-sae-metric-mechanics-tool-set-98-free-shipping",
@@ -405,15 +405,15 @@
    "discount_pct": null,
    "merchant": "Hyper",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/100x100/22356579.thumb",
    "found_at": "2026-11-15T00:54:44Z",
-   "category": "home",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 98.0
   },
   {
    "url": "https://slickdeals.net/f/20310396-official-licensed-google-tv-projector-smart-home-theater-movie-proyector-299-99",
@@ -429,9 +429,9 @@
    "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/22355766.thumb",
    "found_at": "2026-11-14T20:37:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 299.99
   },
   {
    "url": "https://slickdeals.net/f/20309820-ymmv-ryobi-one-hp-18v-brushless-cordless-220-cfm-140-mph-compact-leaf-blower-30th-anniversary-kit-with-4-0-ah-battery-and-charger",
@@ -447,9 +447,9 @@
    "image": "https://slickdeals.net/attachment/2/3/2/1/9/9/4/1/450x450/22354500.thumb",
    "found_at": "2026-11-14T20:37:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 104.0
   },
   {
    "url": "https://slickdeals.net/f/20310387-milwaukee-m18-18v-cordless-compact-heat-gun-tool-only-99-free-shipping",
@@ -464,10 +464,10 @@
    "code": null,
    "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/22355751.thumb",
    "found_at": "2026-11-14T20:37:23Z",
-   "category": "home",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 99.0
   },
   {
    "url": "https://slickdeals.net/f/20309259-sns-ac-6-76-or-5-97-24-pack-3-oz-maruchan-instant-ramen-noodles-shrimp-at-amazon-28-2-each",
@@ -482,10 +482,10 @@
    "code": null,
    "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22352457.thumb",
    "found_at": "2026-11-14T20:37:23Z",
-   "category": "grocery",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 6.76
   },
   {
    "url": "https://slickdeals.net/f/20310180-ea-sports-fc-27-standard-edition-ps5-digital",
@@ -495,15 +495,15 @@
    "discount_pct": null,
    "merchant": "SPORTS",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/7/6/8/4/8/5/9/100x100/22355427.thumb",
    "found_at": "2026-11-14T20:37:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 34.99
   },
   {
    "url": "https://slickdeals.net/f/20310357-performance-tool-w135p-3-in-3-jaw-gear-puller-9",
@@ -513,15 +513,15 @@
    "discount_pct": null,
    "merchant": "Performance",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/2/9/0/9/7/3/8/5/100x100/22355697.thumb",
    "found_at": "2026-11-14T20:37:23Z",
-   "category": "home",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 9.0
   },
   {
    "url": "https://slickdeals.net/f/20310336-45-86-ecoflow-rapid-25-000mah-170w-laptop-power-bank-w-dual-140w-usb-c-ports-at-amazon",
@@ -531,15 +531,15 @@
    "discount_pct": null,
    "merchant": "Amazon",
    "store": "Amazon",
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/100x100/22355637.thumb",
    "found_at": "2026-11-14T20:37:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 46.0
   },
   {
    "url": "https://slickdeals.net/f/20310237-prime-athmile-unisex-faux-fur-slip-on-house-shoes-slippers-2-colors-9-34-free-shipping",
@@ -549,15 +549,15 @@
    "discount_pct": null,
    "merchant": "ATHMILE",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/100x100/22355514.thumb",
    "found_at": "2026-11-14T20:37:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 9.34
   },
   {
    "url": "https://slickdeals.net/f/20309247-new-ymmv-ac-10-64-dremel-543-1-1-4-inch-cutting-shaping-wheel-at-amazon",
@@ -567,15 +567,15 @@
    "discount_pct": null,
    "merchant": "Amazon",
    "store": "Amazon",
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/100x100/22352391.thumb",
    "found_at": "2026-11-14T20:37:23Z",
-   "category": "car",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 10.64
   },
   {
    "url": "https://slickdeals.net/f/20309763-acer-aspire-lite-16-16-fhd-ips-120hz-ryzen-ai-5-330-16gb-lpddr5-512gb-pcie-ssd-599-99",
@@ -585,15 +585,15 @@
    "discount_pct": null,
    "merchant": "Acer",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/100x100/22354326.thumb",
    "found_at": "2026-11-14T20:37:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 599.99
   },
   {
    "url": "https://slickdeals.net/f/20309844-3-pack-firm-grip-large-high-dex-gloves-large-9-97-free-store-pickup-at-home-depot",
@@ -603,15 +603,15 @@
    "discount_pct": null,
    "merchant": "Home",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/100x100/22354560.thumb",
    "found_at": "2026-11-14T20:37:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 9.97
   },
   {
    "url": "https://slickdeals.net/f/20310342-craftsman-13-18-zippered-tool-bag-combo-14-99-free-shipping-w-prime-or-on-35",
@@ -621,15 +621,15 @@
    "discount_pct": null,
    "merchant": "CRAFTSMAN",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/100x100/22355652.thumb",
    "found_at": "2026-11-14T20:37:23Z",
-   "category": "home",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 15.0
   },
   {
    "url": "https://slickdeals.net/f/20310291-ymmv-open-box-anker-power-bank-20k-87w-built-in-usb-c-cable-from-21-99",
@@ -639,15 +639,15 @@
    "discount_pct": null,
    "merchant": "Open",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/100x100/22355589.thumb",
    "found_at": "2026-11-14T20:37:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 21.99
   },
   {
    "url": "https://slickdeals.net/f/20308308-45-nintendo-eshop-50-gift-card-email-delivery-at-newegg",
@@ -663,9 +663,9 @@
    "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/200x200/22351767.thumb?webp=1",
    "found_at": "2026-11-14T15:58:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 50.0
   },
   {
    "url": "https://slickdeals.net/f/20308944-acer-swift-x-14-ai-2026-14-5-2-8k-oled-120hz-touch-ryzen-ai-9-365-rtx-5070-32gb-lpddr5-1tb-ssd-1799-99",
@@ -681,9 +681,9 @@
    "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/22351959.thumb",
    "found_at": "2026-11-14T15:58:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 1799.99
   },
   {
    "url": "https://slickdeals.net/f/20309022-apple-ipad-air-13-wi-fi-with-m3-chip-2nd-generation-app-only",
@@ -699,8 +699,8 @@
    "image": "https://slickdeals.net/attachment/1/8/2/8/6/9/6/0/450x450/22352019.thumb",
    "found_at": "2026-11-14T15:58:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -717,9 +717,9 @@
    "image": "https://slickdeals.net/attachment/3/5/7/5/0/9/1/3/450x450/22351506.thumb",
    "found_at": "2026-11-14T15:58:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 211.84
   },
   {
    "url": "https://slickdeals.net/f/20308890-dewalt-20v-max-lithium-ion-cordless-combo-kit-3-tool-5-8-in-hammer-drill-w-flexvolt-6ah-20v-6ah-4ah-batteries-charger-399",
@@ -729,15 +729,15 @@
    "discount_pct": null,
    "merchant": "Dewalt",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/100x100/22351881.thumb",
    "found_at": "2026-11-14T15:58:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 399.0
   },
   {
    "url": "https://slickdeals.net/f/20308908-dewalt-20v-max-lithium-ion-cordless-combo-kit-3-tool-and-12-in-chainsaw-with-flexvolt-6ah-20v-6ah-4ah-batteries-charger-399",
@@ -747,15 +747,15 @@
    "discount_pct": null,
    "merchant": "Dewalt",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/100x100/22351926.thumb",
    "found_at": "2026-11-14T15:58:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 399.0
   },
   {
    "url": "https://slickdeals.net/f/20308407-dell-ultra-sharp-32-6k-monitor-749",
@@ -765,15 +765,15 @@
    "discount_pct": null,
    "merchant": "Dell",
    "store": "Dell",
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/6/7/0/6/5/7/5/100x100/22351149.thumb",
    "found_at": "2026-11-14T15:58:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 750.0
   },
   {
    "url": "https://slickdeals.net/f/20308572-12-80-adidas-mens-workout-essentials-brandlove-t-shirt-grey-six-mel-grey-four",
@@ -783,15 +783,15 @@
    "discount_pct": null,
    "merchant": "Mens",
    "store": null,
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/100x100/22351455.thumb",
    "found_at": "2026-11-14T15:58:23Z",
-   "category": "fitness",
-   "status": "unverified",
-   "last_verified": null,
-   "current_price": null
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 12.8
   },
   {
    "url": "https://slickdeals.net/f/20308878-3-10-49-promo-woot-fs-prime-lavazza-gran-riserva-filtro-dark-roast-ground-coffee-8-oz",
@@ -801,14 +801,14 @@
    "discount_pct": null,
    "merchant": "WOOT",
    "store": "WOOT",
-   "source": "slickdeals_popular",
+   "source": "slickdeals_frontpage",
    "source_label": "Slickdeals",
    "code": null,
    "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/100x100/22351869.thumb",
    "found_at": "2026-11-14T15:58:23Z",
-   "category": "grocery",
-   "status": "unverified",
-   "last_verified": null,
+   "category": "tech",
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -824,9 +824,9 @@
    "code": null,
    "image": "https://d.dlnws.com/64599/1794649392-product-trimmed.jpg?h=120&w=125",
    "found_at": "2026-11-14T15:58:23Z",
-   "category": "fitness",
-   "status": "unverified",
-   "last_verified": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -842,9 +842,9 @@
    "code": null,
    "image": "https://d.dlnws.com/64599/1794646166-product-trimmed.jpg?h=112&w=125",
    "found_at": "2026-11-14T15:58:23Z",
-   "category": "grocery",
-   "status": "unverified",
-   "last_verified": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -861,8 +861,8 @@
    "image": "https://d.dlnws.com/64599/1794648345-product-trimmed.jpg?h=125&w=125",
    "found_at": "2026-11-14T15:58:23Z",
    "category": "tech",
-   "status": "unverified",
-   "last_verified": null,
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -880,7 +880,7 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 35.0
   },
   {
@@ -898,8 +898,8 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 31.97
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 32.0
   },
   {
    "url": "https://slickdeals.net/f/20307849-saros-ps5-41-99-free-s-h-at-amazon",
@@ -916,8 +916,8 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 41.99
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 42.0
   },
   {
    "url": "https://slickdeals.net/f/20308176-lg-gram-max-17-2-5k-touch-screen-laptop-2026-intel-core-ultra-7-processor-355-16gb-ram-512gb-ssd-copilot-pc-matte-bronze-1049-99-bestbuy-com",
@@ -934,7 +934,7 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1049.99
   },
   {
@@ -952,7 +952,7 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 20.0
   },
   {
@@ -970,8 +970,8 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 3.56
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 3.2
   },
   {
    "url": "https://slickdeals.net/f/20308263-16-99-65w-max-3-port-ef-ecoflow-usb-c-gan-charger-w-100w-3-3-cable-at-amazon",
@@ -988,8 +988,8 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 16.99
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 17.0
   },
   {
    "url": "https://slickdeals.net/f/20308047-dewalt-stealthsonic-9-gallon-5-hp-quiet-wet-dry-shop-vacuum-w-accessories-99-free-shipping",
@@ -1006,7 +1006,7 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 99.0
   },
   {
@@ -1024,7 +1024,7 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 733.28
   },
   {
@@ -1042,7 +1042,7 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 14.94
   },
   {
@@ -1060,7 +1060,7 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 299.0
   },
   {
@@ -1078,7 +1078,7 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 14.99
   },
   {
@@ -1095,9 +1095,9 @@
    "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/100x100/22348512.thumb",
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
-   "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 3.9
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": null
   },
   {
    "url": "https://slickdeals.net/f/20307996-apple-mac-mini-desktop-m4-chip-16gb-ram-256gb-ssd-599-99",
@@ -1114,8 +1114,8 @@
    "found_at": "2026-11-14T09:17:17Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 599.99
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 600.0
   },
   {
    "url": "https://slickdeals.net/f/20306823-westcott-auto-retractable-ceramic-blade-utility-box-cutter-green-3-78-free-shipping-w-walmart-or-on-35",
@@ -1132,7 +1132,7 @@
    "found_at": "2026-11-14T02:06:33Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -1150,7 +1150,7 @@
    "found_at": "2026-11-14T02:06:33Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 76.99
   },
   {
@@ -1168,7 +1168,7 @@
    "found_at": "2026-11-14T02:06:33Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1099.0
   },
   {
@@ -1186,7 +1186,7 @@
    "found_at": "2026-11-14T02:06:33Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 60.0
   },
   {
@@ -1204,7 +1204,7 @@
    "found_at": "2026-11-14T02:06:33Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 427.0
   },
   {
@@ -1222,7 +1222,7 @@
    "found_at": "2026-11-14T02:06:33Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 10.74
   },
   {
@@ -1240,7 +1240,7 @@
    "found_at": "2026-11-14T02:06:33Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 109.0
   },
   {
@@ -1258,7 +1258,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 2.47
   },
   {
@@ -1276,7 +1276,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 159.99
   },
   {
@@ -1294,7 +1294,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 79.91
   },
   {
@@ -1312,13 +1312,13 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 32.99
   },
   {
    "url": "https://slickdeals.net/f/20305710-campbell-s-chunky-soup-classic-chicken-noodle-soup-16-1-oz-can-case-of-8-11-06-with-s-s-amazon",
    "title": "Campbell\u2019s Chunky Soup, Classic Chicken Noodle Soup, 16.1 Oz Can ~",
-   "price": "$11.06",
+   "price": "$11",
    "reg_price": null,
    "discount_pct": null,
    "merchant": "Amazon",
@@ -1330,7 +1330,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 11.0
   },
   {
@@ -1348,7 +1348,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 27.0
   },
   {
@@ -1366,7 +1366,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 51.59
   },
   {
@@ -1384,7 +1384,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.99
   },
   {
@@ -1402,7 +1402,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -1420,7 +1420,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 22.0
   },
   {
@@ -1438,7 +1438,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 44.51
   },
   {
@@ -1456,7 +1456,7 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 6.0
   },
   {
@@ -1474,8 +1474,8 @@
    "found_at": "2026-11-13T21:51:29Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 24.99
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 22.0
   },
   {
    "url": "https://slickdeals.net/f/20301501-hp-omnibook-x-flip-2-in-1-2026-16-fhd-oled-touch-ryzen-ai-9-465-32gb-lpddr5-512gb-ssd-999-99",
@@ -1492,7 +1492,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1000.0
   },
   {
@@ -1510,7 +1510,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 60.0
   },
   {
@@ -1528,7 +1528,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 189.0
   },
   {
@@ -1546,7 +1546,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 30.0
   },
   {
@@ -1564,7 +1564,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 55.0
   },
   {
@@ -1582,7 +1582,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 130.0
   },
   {
@@ -1600,7 +1600,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 39.0
   },
   {
@@ -1618,7 +1618,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 2.0
   },
   {
@@ -1636,7 +1636,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 329.0
   },
   {
@@ -1654,7 +1654,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 84.99
   },
   {
@@ -1672,7 +1672,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 48.99
   },
   {
@@ -1690,7 +1690,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 26.0
   },
   {
@@ -1708,7 +1708,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1499.99
   },
   {
@@ -1726,7 +1726,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 65.0
   },
   {
@@ -1744,7 +1744,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 319.0
   },
   {
@@ -1762,7 +1762,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 144.0
   },
   {
@@ -1780,7 +1780,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 199.0
   },
   {
@@ -1798,7 +1798,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 14.99
   },
   {
@@ -1816,7 +1816,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 23.0
   },
   {
@@ -1834,7 +1834,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 799.99
   },
   {
@@ -1852,7 +1852,7 @@
    "found_at": "2026-11-13T15:38:03Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -1870,7 +1870,7 @@
    "found_at": "2026-11-13T14:00:09.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 700.0
   },
   {
@@ -1888,7 +1888,7 @@
    "found_at": "2026-11-13T13:53:05.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -1906,7 +1906,7 @@
    "found_at": "2026-11-13T13:47:51.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 47.0
   },
   {
@@ -1924,7 +1924,7 @@
    "found_at": "2026-11-13T13:47:16.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -1942,7 +1942,7 @@
    "found_at": "2026-11-13T13:38:36.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 51.0
   },
   {
@@ -1960,13 +1960,13 @@
    "found_at": "2026-11-13T13:24:11.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 850.0
   },
   {
    "url": "https://slickdeals.net/f/20303103-adidas-women-s-vl-court-base-shoes-cream-white-core-black-crystal-sand-sizes-5-11-20-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
    "title": "adidas Women's VL Court Base Shoes (Cream White / Core Black / Crystal Sand, Sizes: 5-11) $20.40 + Free Shipping",
-   "price": "$20.40",
+   "price": "$20",
    "reg_price": null,
    "discount_pct": null,
    "merchant": null,
@@ -1978,7 +1978,7 @@
    "found_at": "2026-11-13T13:23:12.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 20.0
   },
   {
@@ -1996,7 +1996,7 @@
    "found_at": "2026-11-13T13:18:25.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.0
   },
   {
@@ -2014,7 +2014,7 @@
    "found_at": "2026-11-13T13:18:18.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 5.99
   },
   {
@@ -2032,7 +2032,7 @@
    "found_at": "2026-11-13T13:08:55.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 13.52
   },
   {
@@ -2050,7 +2050,7 @@
    "found_at": "2026-11-13T13:04:27.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 17.68
   },
   {
@@ -2068,7 +2068,7 @@
    "found_at": "2026-11-13T13:04:09.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 229.0
   },
   {
@@ -2086,7 +2086,7 @@
    "found_at": "2026-11-13T13:02:39.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 6.0
   },
   {
@@ -2104,7 +2104,7 @@
    "found_at": "2026-11-13T12:59:49.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -2122,7 +2122,7 @@
    "found_at": "2026-11-13T12:59:02.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 177.37
   },
   {
@@ -2140,7 +2140,7 @@
    "found_at": "2026-11-13T12:50:07.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 23.0
   },
   {
@@ -2158,7 +2158,7 @@
    "found_at": "2026-11-13T12:49:50.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 5.0
   },
   {
@@ -2176,7 +2176,7 @@
    "found_at": "2026-11-13T12:49:12.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 99.0
   },
   {
@@ -2194,7 +2194,7 @@
    "found_at": "2026-11-13T12:41:15.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 23.0
   },
   {
@@ -2212,7 +2212,7 @@
    "found_at": "2026-11-13T12:33:30.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 15.0
   },
   {
@@ -2230,7 +2230,7 @@
    "found_at": "2026-11-13T12:33:16.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 7.35
   },
   {
@@ -2248,7 +2248,7 @@
    "found_at": "2026-11-13T12:25:52.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 25.0
   },
   {
@@ -2266,7 +2266,7 @@
    "found_at": "2026-11-13T12:16:13.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 25.0
   },
   {
@@ -2284,7 +2284,7 @@
    "found_at": "2026-11-13T12:12:07.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -2302,7 +2302,7 @@
    "found_at": "2026-11-13T12:01:26.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 30.0
   },
   {
@@ -2320,7 +2320,7 @@
    "found_at": "2026-11-13T11:59:57.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 12.0
   },
   {
@@ -2338,7 +2338,7 @@
    "found_at": "2026-11-13T11:56:15.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 849.99
   },
   {
@@ -2356,7 +2356,7 @@
    "found_at": "2026-11-13T11:54:05.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -2374,7 +2374,7 @@
    "found_at": "2026-11-13T11:44:30.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 7.0
   },
   {
@@ -2392,7 +2392,7 @@
    "found_at": "2026-11-13T11:43:10.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.75
   },
   {
@@ -2410,7 +2410,7 @@
    "found_at": "2026-11-13T11:43:07.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 33.0
   },
   {
@@ -2428,7 +2428,7 @@
    "found_at": "2026-11-13T11:38:52.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 25.0
   },
   {
@@ -2446,7 +2446,7 @@
    "found_at": "2026-11-13T11:35:45.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 13.0
   },
   {
@@ -2464,7 +2464,7 @@
    "found_at": "2026-11-13T11:19:29.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 0.13
   },
   {
@@ -2482,7 +2482,7 @@
    "found_at": "2026-11-13T11:14:32.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 10.0
   },
   {
@@ -2500,7 +2500,7 @@
    "found_at": "2026-11-13T11:13:50.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 17.0
   },
   {
@@ -2518,7 +2518,7 @@
    "found_at": "2026-11-13T11:12:56.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 12.0
   },
   {
@@ -2536,7 +2536,7 @@
    "found_at": "2026-11-13T10:50:14.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 15.0
   },
   {
@@ -2554,13 +2554,13 @@
    "found_at": "2026-11-13T10:48:28.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 38.0
   },
   {
    "url": "https://slickdeals.net/f/20302584-123-47-ego-power-cta9500-9-5-inch-cultivator-attachment-for-ego-56-volt-lithium-ion-multi-head-system-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
    "title": "$123.47 | EGO Power+ CTA9500 9.5-inch Cultivator Attachment for EGO 56-Volt Lithium-ion Multi Head System at Amazon",
-   "price": "$123.47",
+   "price": "$123",
    "reg_price": null,
    "discount_pct": null,
    "merchant": null,
@@ -2572,7 +2572,7 @@
    "found_at": "2026-11-13T10:28:11.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 123.0
   },
   {
@@ -2590,7 +2590,7 @@
    "found_at": "2026-11-13T10:21:34.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 7.2
   },
   {
@@ -2608,7 +2608,7 @@
    "found_at": "2026-11-13T10:19:04.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 45.0
   },
   {
@@ -2626,7 +2626,7 @@
    "found_at": "2026-11-13T10:14:57.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 2.6
   },
   {
@@ -2644,7 +2644,7 @@
    "found_at": "2026-11-13T10:08:57.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 15.0
   },
   {
@@ -2662,7 +2662,7 @@
    "found_at": "2026-11-13T10:07:50.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 64.0
   },
   {
@@ -2680,7 +2680,7 @@
    "found_at": "2026-11-13T09:58:54.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 7.5
   },
   {
@@ -2698,7 +2698,7 @@
    "found_at": "2026-11-13T09:53:36.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 630.79
   },
   {
@@ -2716,7 +2716,7 @@
    "found_at": "2026-11-13T09:44:29.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -2734,7 +2734,7 @@
    "found_at": "2026-11-13T09:39:17.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 5.2
   },
   {
@@ -2752,7 +2752,7 @@
    "found_at": "2026-11-13T09:38:45.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -2770,7 +2770,7 @@
    "found_at": "2026-11-13T09:34:03.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 40.0
   },
   {
@@ -2788,7 +2788,7 @@
    "found_at": "2026-11-13T09:28:30.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 16.25
   },
   {
@@ -2806,7 +2806,7 @@
    "found_at": "2026-11-13T09:25:01.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 10.59
   },
   {
@@ -2824,7 +2824,7 @@
    "found_at": "2026-11-13T09:22:13.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -2842,7 +2842,7 @@
    "found_at": "2026-11-13T09:19:05.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 18.86
   },
   {
@@ -2860,7 +2860,7 @@
    "found_at": "2026-11-13T09:16:40.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 10.19
   },
   {
@@ -2878,7 +2878,7 @@
    "found_at": "2026-11-13T09:14:24.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 44.99
   },
   {
@@ -2896,7 +2896,7 @@
    "found_at": "2026-11-13T09:11:21.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 877.0
   },
   {
@@ -2914,7 +2914,7 @@
    "found_at": "2026-11-13T09:10:24.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 100.0
   },
   {
@@ -2932,7 +2932,7 @@
    "found_at": "2026-11-13T09:09:31.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 189.0
   },
   {
@@ -2949,9 +2949,9 @@
    "image": null,
    "found_at": "2026-11-13T08:58:07.000Z",
    "category": "tech",
-   "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 500.0
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": null
   },
   {
    "url": "https://slickdeals.net/f/20302146-sns-ac-4-92-or-3-77-3-pack-3-2-oz-colgate-optic-white-advanced-hydrogen-peroxide-toothpaste-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
@@ -2968,7 +2968,7 @@
    "found_at": "2026-11-13T08:55:07.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 4.92
   },
   {
@@ -2986,7 +2986,7 @@
    "found_at": "2026-11-13T08:51:46.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 20.0
   },
   {
@@ -3004,7 +3004,7 @@
    "found_at": "2026-11-13T08:50:09.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 7.0
   },
   {
@@ -3022,7 +3022,7 @@
    "found_at": "2026-11-13T08:48:56.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 89.0
   },
   {
@@ -3040,7 +3040,7 @@
    "found_at": "2026-11-13T08:48:09.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 250.0
   },
   {
@@ -3058,7 +3058,7 @@
    "found_at": "2026-11-13T08:47:53.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 35.0
   },
   {
@@ -3076,7 +3076,7 @@
    "found_at": "2026-11-13T08:47:31.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 7.5
   },
   {
@@ -3094,7 +3094,7 @@
    "found_at": "2026-11-13T08:45:46.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -3112,7 +3112,7 @@
    "found_at": "2026-11-13T08:37:25.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 69.0
   },
   {
@@ -3130,7 +3130,7 @@
    "found_at": "2026-11-13T08:34:59.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 40.0
   },
   {
@@ -3148,7 +3148,7 @@
    "found_at": "2026-11-13T08:18:09.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1250.0
   },
   {
@@ -3166,7 +3166,7 @@
    "found_at": "2026-11-13T08:10:21.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -3184,7 +3184,7 @@
    "found_at": "2026-11-13T08:07:09.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -3202,7 +3202,7 @@
    "found_at": "2026-11-13T08:04:28.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 60.0
   },
   {
@@ -3220,8 +3220,8 @@
    "found_at": "2026-11-13T07:49:34.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 99.0
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 94.0
   },
   {
    "url": "https://slickdeals.net/f/20301945-nothing-headphone-1-anc-wireless-over-ear-headphones-white-or-black-169-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
@@ -3238,7 +3238,7 @@
    "found_at": "2026-11-13T07:43:54.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 169.0
   },
   {
@@ -3256,7 +3256,7 @@
    "found_at": "2026-11-13T07:06:52.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 2.99
   },
   {
@@ -3274,7 +3274,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 26.0
   },
   {
@@ -3292,7 +3292,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 16.0
   },
   {
@@ -3310,7 +3310,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 129.0
   },
   {
@@ -3328,7 +3328,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 11.0
   },
   {
@@ -3346,7 +3346,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1750.0
   },
   {
@@ -3364,7 +3364,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 381.0
   },
   {
@@ -3382,7 +3382,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 390.0
   },
   {
@@ -3400,7 +3400,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 12.0
   },
   {
@@ -3418,7 +3418,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1397.96
   },
   {
@@ -3436,7 +3436,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 64.0
   },
   {
@@ -3454,7 +3454,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 29.99
   },
   {
@@ -3472,7 +3472,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 54.98
   },
   {
@@ -3490,7 +3490,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 19.99
   },
   {
@@ -3508,7 +3508,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 108.0
   },
   {
@@ -3526,7 +3526,7 @@
    "found_at": "2026-11-13T07:05:37Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 414.49
   },
   {
@@ -3543,9 +3543,9 @@
    "image": null,
    "found_at": "2026-11-13T06:50:41.000Z",
    "category": "tech",
-   "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 25.49
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 26.0
   },
   {
    "url": "https://slickdeals.net/f/20301663-59-99-instant-pot-vortex-5-7qt-4-in-1-air-fryer-with-evencrisp-technology-black-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
@@ -3562,7 +3562,7 @@
    "found_at": "2026-11-13T06:23:59.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 60.0
   },
   {
@@ -3580,7 +3580,7 @@
    "found_at": "2026-11-13T06:04:49.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 699.99
   },
   {
@@ -3598,7 +3598,7 @@
    "found_at": "2026-11-13T05:51:21.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.99
   },
   {
@@ -3616,7 +3616,7 @@
    "found_at": "2026-11-13T05:42:02.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -3634,7 +3634,7 @@
    "found_at": "2026-11-13T05:32:39.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 199.0
   },
   {
@@ -3652,7 +3652,7 @@
    "found_at": "2026-11-13T05:26:07.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 5.84
   },
   {
@@ -3669,14 +3669,14 @@
    "image": null,
    "found_at": "2026-11-13T05:22:44.000Z",
    "category": "tech",
-   "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 40.0
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": null
   },
   {
    "url": "https://slickdeals.net/f/20301309-8bitdo-sn30-pro-wireless-controller-w-hall-effect-joysticks-g-classic-33-99-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
    "title": "8BitDo SN30 Pro Wireless Controller w/ Hall Effect Joysticks (G Classic) - $33.99 @ Best Buy",
-   "price": "$33.99",
+   "price": "$33",
    "reg_price": null,
    "discount_pct": null,
    "merchant": null,
@@ -3688,7 +3688,7 @@
    "found_at": "2026-11-13T05:15:42.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 33.0
   },
   {
@@ -3706,7 +3706,7 @@
    "found_at": "2026-11-13T05:12:42.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 89.0
   },
   {
@@ -3724,7 +3724,7 @@
    "found_at": "2026-11-13T03:57:18.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 14.99
   },
   {
@@ -3742,7 +3742,7 @@
    "found_at": "2026-11-13T03:33:27.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -3760,8 +3760,8 @@
    "found_at": "2026-11-13T03:19:36.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 5.99
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 6.0
   },
   {
    "url": "https://slickdeals.net/f/20300784-costco-instore-tesport-2-in-1-convertible-pickleball-bag?utm_source=rss&utm_content=ht&utm_medium=RSS2",
@@ -3778,7 +3778,7 @@
    "found_at": "2026-11-13T02:43:56.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 25.0
   },
   {
@@ -3796,7 +3796,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 22.0
   },
   {
@@ -3814,7 +3814,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 4.0
   },
   {
@@ -3832,8 +3832,8 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 4.38
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 4.25
   },
   {
    "url": "https://slickdeals.net/f/20299056-lenovo-thinktab-x11-gen-1-10-9-2560x1600-2-5k-ips-rugged-tablet-w-snapdragon-7s-gen-3-8gb-ram-256gb-502-free-shipping",
@@ -3850,7 +3850,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 502.0
   },
   {
@@ -3868,7 +3868,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -3886,7 +3886,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 27.98
   },
   {
@@ -3904,7 +3904,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 199.99
   },
   {
@@ -3922,7 +3922,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -3940,7 +3940,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 20.0
   },
   {
@@ -3958,7 +3958,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -3976,7 +3976,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 70.0
   },
   {
@@ -3994,7 +3994,7 @@
    "found_at": "2026-11-13T00:00:36Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 100.0
   },
   {
@@ -4011,9 +4011,9 @@
    "image": null,
    "found_at": "2026-11-12T23:58:58.000Z",
    "category": "tech",
-   "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 7.49
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": null
   },
   {
    "url": "https://slickdeals.net/f/20299908-99-fs-wm-cooper-discoverer-all-terrain-tire-265-75r16-more?utm_source=rss&utm_content=ht&utm_medium=RSS2",
@@ -4030,7 +4030,7 @@
    "found_at": "2026-11-12T22:42:00.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 99.0
   },
   {
@@ -4048,7 +4048,7 @@
    "found_at": "2026-11-12T21:41:20.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 12.0
   },
   {
@@ -4066,7 +4066,7 @@
    "found_at": "2026-11-12T21:07:48.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 58.73
   },
   {
@@ -4084,7 +4084,7 @@
    "found_at": "2026-11-12T20:38:27.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 149.99
   },
   {
@@ -4102,7 +4102,7 @@
    "found_at": "2026-11-12T20:28:15.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1.0
   },
   {
@@ -4120,7 +4120,7 @@
    "found_at": "2026-11-12T20:19:46.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 38.0
   },
   {
@@ -4138,7 +4138,7 @@
    "found_at": "2026-11-12T19:50:02.000Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -4156,7 +4156,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 78.0
   },
   {
@@ -4174,7 +4174,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 230.0
   },
   {
@@ -4192,7 +4192,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 15.0
   },
   {
@@ -4210,7 +4210,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 38.0
   },
   {
@@ -4228,7 +4228,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 199.0
   },
   {
@@ -4246,7 +4246,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 99.0
   },
   {
@@ -4264,7 +4264,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 35.0
   },
   {
@@ -4282,7 +4282,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 720.0
   },
   {
@@ -4300,7 +4300,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 12.0
   },
   {
@@ -4318,7 +4318,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 500.0
   },
   {
@@ -4336,7 +4336,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.9
   },
   {
@@ -4354,7 +4354,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 289.99
   },
   {
@@ -4372,7 +4372,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.79
   },
   {
@@ -4390,7 +4390,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 20.0
   },
   {
@@ -4408,7 +4408,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 5.0
   },
   {
@@ -4426,7 +4426,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 39.99
   },
   {
@@ -4444,7 +4444,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 57.0
   },
   {
@@ -4462,7 +4462,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 166.0
   },
   {
@@ -4480,7 +4480,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 23.45
   },
   {
@@ -4498,7 +4498,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 40.0
   },
   {
@@ -4516,7 +4516,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 29.99
   },
   {
@@ -4534,7 +4534,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 129.99
   },
   {
@@ -4552,7 +4552,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 149.0
   },
   {
@@ -4570,7 +4570,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 400.0
   },
   {
@@ -4588,7 +4588,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -4606,7 +4606,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 49.99
   },
   {
@@ -4624,7 +4624,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 299.99
   },
   {
@@ -4642,7 +4642,7 @@
    "found_at": "2026-11-12T18:31:46Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -4660,7 +4660,7 @@
    "found_at": "2026-11-12T18:24:26.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -4678,7 +4678,7 @@
    "found_at": "2026-11-12T17:29:48.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 149.95
   },
   {
@@ -4696,7 +4696,7 @@
    "found_at": "2026-11-12T15:38:01.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 12.49
   },
   {
@@ -4714,7 +4714,7 @@
    "found_at": "2026-11-12T15:33:03.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 17.99
   },
   {
@@ -4732,7 +4732,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 45.85
   },
   {
@@ -4750,7 +4750,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 70.0
   },
   {
@@ -4768,7 +4768,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 8.9
   },
   {
@@ -4786,7 +4786,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 125.0
   },
   {
@@ -4804,7 +4804,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 158.0
   },
   {
@@ -4822,7 +4822,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -4840,7 +4840,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 399.0
   },
   {
@@ -4858,7 +4858,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 6.65
   },
   {
@@ -4876,7 +4876,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 289.99
   },
   {
@@ -4894,7 +4894,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 45.0
   },
   {
@@ -4912,7 +4912,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 800.0
   },
   {
@@ -4930,7 +4930,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 20.89
   },
   {
@@ -4947,9 +4947,9 @@
    "image": "https://slickdeals.net/attachment/3/0/6/3/0/0/8/2/450x450/22311969.thumb",
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
-   "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
-   "current_price": 500.0
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": null
   },
   {
    "url": "https://slickdeals.net/f/20295366-chirp-wheel-6-deep-tissue-back-roller-mint-33-74-free-shipping",
@@ -4966,7 +4966,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 33.74
   },
   {
@@ -4984,7 +4984,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 19.99
   },
   {
@@ -5002,7 +5002,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 49.0
   },
   {
@@ -5020,7 +5020,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 10.0
   },
   {
@@ -5038,7 +5038,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 29.5
   },
   {
@@ -5056,7 +5056,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 38.99
   },
   {
@@ -5074,7 +5074,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 5.35
   },
   {
@@ -5092,7 +5092,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 898.0
   },
   {
@@ -5110,7 +5110,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 79.0
   },
   {
@@ -5128,7 +5128,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -5146,7 +5146,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.9
   },
   {
@@ -5164,7 +5164,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 149.99
   },
   {
@@ -5182,7 +5182,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 200.0
   },
   {
@@ -5200,7 +5200,7 @@
    "found_at": "2026-11-12T10:09:43Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 10.0
   },
   {
@@ -5218,7 +5218,7 @@
    "found_at": "2026-11-12T06:03:59.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 20.0
   },
   {
@@ -5236,7 +5236,7 @@
    "found_at": "2026-11-12T02:25:55Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 8.9
   },
   {
@@ -5254,7 +5254,7 @@
    "found_at": "2026-11-12T02:25:55Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 89.99
   },
   {
@@ -5272,7 +5272,7 @@
    "found_at": "2026-11-12T02:25:55Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 4.6
   },
   {
@@ -5290,7 +5290,7 @@
    "found_at": "2026-11-12T02:25:55Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1598.0
   },
   {
@@ -5308,7 +5308,7 @@
    "found_at": "2026-11-12T02:25:55Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 130.19
   },
   {
@@ -5326,7 +5326,7 @@
    "found_at": "2026-11-12T02:25:55Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 2850.0
   },
   {
@@ -5344,7 +5344,7 @@
    "found_at": "2026-11-12T02:25:55Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 44.29
   },
   {
@@ -5362,7 +5362,7 @@
    "found_at": "2026-11-12T02:25:55Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 18.0
   },
   {
@@ -5380,7 +5380,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -5398,7 +5398,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -5416,7 +5416,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 190.0
   },
   {
@@ -5434,7 +5434,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -5452,7 +5452,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 174.0
   },
   {
@@ -5470,7 +5470,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 286.0
   },
   {
@@ -5488,7 +5488,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 68.0
   },
   {
@@ -5506,7 +5506,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 89.99
   },
   {
@@ -5524,7 +5524,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -5542,7 +5542,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1751.0
   },
   {
@@ -5560,7 +5560,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 30.0
   },
   {
@@ -5578,7 +5578,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -5596,7 +5596,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 88.0
   },
   {
@@ -5614,7 +5614,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -5632,7 +5632,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 19.99
   },
   {
@@ -5650,7 +5650,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 10.0
   },
   {
@@ -5668,7 +5668,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 11.99
   },
   {
@@ -5686,7 +5686,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 36.0
   },
   {
@@ -5704,7 +5704,7 @@
    "found_at": "2026-11-11T21:17:39Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 35.0
   },
   {
@@ -5722,7 +5722,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -5740,7 +5740,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 727.0
   },
   {
@@ -5758,7 +5758,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 24.0
   },
   {
@@ -5776,7 +5776,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 166.0
   },
   {
@@ -5794,7 +5794,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 24.0
   },
   {
@@ -5812,7 +5812,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 19.0
   },
   {
@@ -5830,7 +5830,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 79.99
   },
   {
@@ -5848,7 +5848,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 37.83
   },
   {
@@ -5866,7 +5866,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 20.0
   },
   {
@@ -5884,7 +5884,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 469.0
   },
   {
@@ -5902,7 +5902,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 32.69
   },
   {
@@ -5920,7 +5920,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 8.0
   },
   {
@@ -5938,7 +5938,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 49.99
   },
   {
@@ -5956,7 +5956,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 99.0
   },
   {
@@ -5974,7 +5974,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 127.0
   },
   {
@@ -5992,7 +5992,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 28.0
   },
   {
@@ -6010,7 +6010,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 8.0
   },
   {
@@ -6028,7 +6028,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 5.0
   },
   {
@@ -6046,7 +6046,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 255.0
   },
   {
@@ -6064,7 +6064,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 620.0
   },
   {
@@ -6082,7 +6082,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 166.0
   },
   {
@@ -6100,7 +6100,7 @@
    "found_at": "2026-11-11T13:59:59Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -6118,7 +6118,7 @@
    "found_at": "2026-11-11T12:23:45.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 159.0
   },
   {
@@ -6136,7 +6136,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 99.0
   },
   {
@@ -6154,7 +6154,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 50.0
   },
   {
@@ -6172,7 +6172,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 96.0
   },
   {
@@ -6190,7 +6190,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 37.0
   },
   {
@@ -6208,7 +6208,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1400.0
   },
   {
@@ -6226,7 +6226,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 7.99
   },
   {
@@ -6244,7 +6244,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1091.0
   },
   {
@@ -6262,7 +6262,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 13.0
   },
   {
@@ -6280,7 +6280,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 30.0
   },
   {
@@ -6298,7 +6298,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 65.37
   },
   {
@@ -6316,7 +6316,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 100.0
   },
   {
@@ -6334,7 +6334,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1950.0
   },
   {
@@ -6352,7 +6352,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 16.99
   },
   {
@@ -6370,7 +6370,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 79.85
   },
   {
@@ -6388,7 +6388,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 49.99
   },
   {
@@ -6406,7 +6406,7 @@
    "found_at": "2026-11-11T05:56:19Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 3.62
   },
   {
@@ -6424,7 +6424,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 28.0
   },
   {
@@ -6442,7 +6442,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 650.0
   },
   {
@@ -6460,7 +6460,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.78
   },
   {
@@ -6478,7 +6478,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 7.26
   },
   {
@@ -6496,7 +6496,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 16.79
   },
   {
@@ -6514,7 +6514,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 96.0
   },
   {
@@ -6532,7 +6532,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 7.0
   },
   {
@@ -6550,7 +6550,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 199.0
   },
   {
@@ -6568,7 +6568,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 89.99
   },
   {
@@ -6586,7 +6586,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 13.99
   },
   {
@@ -6604,7 +6604,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 2.0
   },
   {
@@ -6622,7 +6622,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 200.0
   },
   {
@@ -6640,7 +6640,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 19.99
   },
   {
@@ -6658,7 +6658,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.99
   },
   {
@@ -6676,7 +6676,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "expired",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -6694,7 +6694,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 480.0
   },
   {
@@ -6712,7 +6712,7 @@
    "found_at": "2026-11-10T23:57:24Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 99.0
   },
   {
@@ -6730,7 +6730,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 88.0
   },
   {
@@ -6748,7 +6748,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 31.0
   },
   {
@@ -6766,7 +6766,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 11.0
   },
   {
@@ -6784,7 +6784,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 20.0
   },
   {
@@ -6802,7 +6802,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 33.0
   },
   {
@@ -6820,7 +6820,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 7.9
   },
   {
@@ -6838,7 +6838,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 91.99
   },
   {
@@ -6856,7 +6856,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 40.0
   },
   {
@@ -6874,7 +6874,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 702.99
   },
   {
@@ -6892,7 +6892,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 149.0
   },
   {
@@ -6910,7 +6910,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 6.0
   },
   {
@@ -6928,7 +6928,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 16.27
   },
   {
@@ -6946,7 +6946,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.0
   },
   {
@@ -6964,7 +6964,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 39.98
   },
   {
@@ -6982,7 +6982,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 14.0
   },
   {
@@ -7000,7 +7000,7 @@
    "found_at": "2026-11-10T18:32:15Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 10.0
   },
   {
@@ -7018,7 +7018,7 @@
    "found_at": "2026-11-10T17:32:40.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -7036,7 +7036,7 @@
    "found_at": "2026-11-10T14:58:13.000Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 14.39
   },
   {
@@ -7090,7 +7090,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 29.99
   },
   {
@@ -7108,7 +7108,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 9.99
   },
   {
@@ -7126,7 +7126,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 15.0
   },
   {
@@ -7144,7 +7144,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 15.0
   },
   {
@@ -7162,7 +7162,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 4.99
   },
   {
@@ -7180,7 +7180,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 12.0
   },
   {
@@ -7198,7 +7198,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 89.98
   },
   {
@@ -7216,7 +7216,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 1084.0
   },
   {
@@ -7234,7 +7234,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": null
   },
   {
@@ -7252,13 +7252,13 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 72.0
   },
   {
    "url": "https://slickdeals.net/f/20282859-cert-refurb-acer-swift-go-16-ai-2026-16-fhd-oled-touch-intel-ultra-5-322-16gb-lpddr5-512gb-ssd-498-27",
    "title": "Cert. Refurb: Acer Swift Go 16 AI : 16\u201d FHD+ OLED Touch, Intel Ultra 5 322, 16GB LPDDR5, 512GB SSD",
-   "price": "$498",
+   "price": "$491",
    "reg_price": null,
    "discount_pct": null,
    "merchant": "Acer",
@@ -7270,7 +7270,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 491.0
   },
   {
@@ -7288,7 +7288,7 @@
    "found_at": "2026-11-10T10:54:50Z",
    "category": "tech",
    "status": "live",
-   "last_verified": "2026-11-14T13:18:46Z",
+   "last_verified": "2026-11-15T13:19:35Z",
    "current_price": 13.99
   },
   {
@@ -7398,6 +7398,906 @@
    "status": "unverified",
    "last_verified": null,
    "current_price": null
+  },
+  {
+   "url": "https://slickdeals.net/f/20299050-kobalt-3-in-1-10-in-cross-cutting-multi-saw-60151-9-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$9.98",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 9.98
+  },
+  {
+   "url": "https://slickdeals.net/f/20300520-3-pack-philips-hue-br30-e26-smart-led-85w-light-bulbs-89-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$89.97",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 89.97
+  },
+  {
+   "url": "https://slickdeals.net/f/20303769-2-pack-yecaye-80l-under-bed-storage-containers-w-wheels-light-grey-19-99-9-99-each-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$19.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 19.99
+  },
+  {
+   "url": "https://slickdeals.net/f/20303907-26-realistic-fall-wreath-for-front-door-14-24?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$14.24",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 14.24
+  },
+  {
+   "url": "https://slickdeals.net/f/20304051-lg-75-class-nu700b-series-led-nano-ai-4k-uhd-smart-webos-tv-2026-best-buy-399-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$399.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 400.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20304897-power-and-progress-our-thousand-year-struggle-over-technology-and-prosperity-1-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$1.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 1.99
+  },
+  {
+   "url": "https://slickdeals.net/f/20305263-telguua-men-s-heated-puffer-vest-w-3-heat-settings-rechargeable-battery-pack-s-3xl-various-colors-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$39.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 39.99
+  },
+  {
+   "url": "https://slickdeals.net/f/20306055-airfire-hepa-air-purifier-for-home-up-to-1950-sq-ft-2-hours-air-purifiers-model-ap201-black-2026-new-29-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$29.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 29.99
+  },
+  {
+   "url": "https://slickdeals.net/f/20307042-15-6-item-celebration-of-chinese-gaming-bundle-ascend-from-nine-mountains-murders-on-the-yangtze-river-more-pc-games?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$15",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 15.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20307108-saros-playstation-5-41-99-fs-walmart?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$41.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 42.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20307111-3-count-3-6-oz-n-bone-puppy-teething-rings-peanut-butter-3-50-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$3.50",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 3.5
+  },
+  {
+   "url": "https://slickdeals.net/f/20307693-loctite-super-glue-liquid-longneck-bottle-clear-10g-1-pack-clear-with-extra-long-precision-nozzle-quick-dry-formula-3-54?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$3.54",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 3.54
+  },
+  {
+   "url": "https://slickdeals.net/f/20307792-garmin-alpha-200-plus-dog-tracking-training-handheld-gps-449-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$449.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 449.99
+  },
+  {
+   "url": "https://slickdeals.net/f/20307813-jet-8-bench-grinder-led-lights-coolant-tray-3-450-rpm-model-jwbg-8hs-1-2-hp-120v-4-8a-1ph-15a-circuit-3-450-rpm-36-60-grit-8-wheels-5-year-warranty-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 99.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20308026-craftsman-versastack-3-piece-rolling-tool-box-tower-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 99.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20308035-craftsman-metal-sawhorse-w-1-000-lb-capacity-folding-legs-16-98-free-store-pickup-at-lowe-s-or-free-shipping-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$16.98",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 17.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20308089-new-12-99-batman-knightfall-part-1-4k-ultra-hd-digital-4k-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$12.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 12.99
+  },
+  {
+   "url": "https://slickdeals.net/f/20308110-65-69-gearwrench-25-piece-1-2-drive-6-point-impact-metric-socket-set-84933n-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$65.69",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 65.69
+  },
+  {
+   "url": "https://slickdeals.net/f/20308113-391-63-bosch-gbr18v-15sn18x-18v-5-in-concrete-surface-grinder-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$391.63",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 391.63
+  },
+  {
+   "url": "https://slickdeals.net/f/20302770-6-02-or-5-72-puma-men-s-3-pack-volume-boxer-brief-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$7",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": null
+  },
+  {
+   "url": "https://slickdeals.net/f/20308128-12-99-ben-hur-4k-ultra-hd-digital-4k-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$12.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 12.99
+  },
+  {
+   "url": "https://slickdeals.net/f/20294028-120-fs-walmart-msi-optix-g32c4w-32-inch-curved-1920x1080-hdmi-dp-165hz-1ms-freesync-lcd-gaming-monitor?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$120",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 120.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20305965-craftsman-26-5-5-drawer-steel-ball-bearing-tool-center-45-5-h-x-14-d-149-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$149",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 149.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20308191-lg-ultragear-34-curved-wqhd-240hz-freesync-premium-gaming-monitor-with-displayhdr400-hdmi-dp-usb-c-usb-a-black-379-99-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$379.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 379.99
+  },
+  {
+   "url": "https://slickdeals.net/f/20308197-lg-36-in-counter-depth-max-25-5-cu-ft-french-door-smart-refrigerator-with-ice-plus-printproof-stainless-steel-look-1599-99-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$1599.99",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 1599.99
+  },
+  {
+   "url": "https://slickdeals.net/f/20304597-refurbished-delonghi-magnifica-evo-espresso-machines-219-99-244-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$220",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 220.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20308299-sns-ac-2-84-or-2-62-6-pk-16-9-oz-coca-cola-soda-cherry-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$2.84",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": null
+  },
+  {
+   "url": "https://slickdeals.net/f/20305038-916-pc-lego-creator-3-in-1-iconic-ferris-wheel-building-set-79-95-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$79.95",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 80.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20308332-ac-79-04-soundcore-boom-2-by-anker-outdoor-speaker-80w-subwoofer-24h-playtime-green-at-walmart-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$79.04",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 79.04
+  },
+  {
+   "url": "https://slickdeals.net/f/20306559-12-wm-hyper-tough-3-in-1-laser-line-torpedo-level-with-led-lighted-vials?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$12",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 12.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20304195-sam-s-club-members-50-vizio-quantum-series-4k-qled-smart-tv-vqd50x-10-128-free-s-h-on-orders-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$128",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 128.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20306184-36-count-uniball-207-pink-ribbon-retractable-gel-pens-black-ink-0-7mm-14-98-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$14.25",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 14.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20303283-adidas-men-s-questar-4-running-shoes-2-colors-25-50-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$25.50",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "expired",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 26.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20305461-refurb-corsair-rm850x-cybenetics-gold-fully-modular-atx-power-supply-58-80-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$58.80",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 59.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20302989-adidas-men-s-grand-court-3-0-shoes-3-colors-23-8?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$23.80",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 24.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20302674-2-pack-6-abccanopy-stretch-spandex-table-covers-blacklead-9-11-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$9.10",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 9.1
+  },
+  {
+   "url": "https://slickdeals.net/f/20305686-anbernic-rg28xx-standard-2-83-inch-ips-linux-handheld-with-3100mah-battery-33-43-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$33.45",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 33.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20302683-adidas-men-s-runfalcon-6-wide-shoes-grey-two-dark-blue-core-black-22-1?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$22.10",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 22.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20302092-143-99-coway-mighty-air-home-led-purifier-w-hepa-air-filter-black-or-white-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$144",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 144.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20307744-19-x-12-padoor-absorbent-pet-feeding-mat-w-non-slip-backing-dark-grey-5-27-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$5.25",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 5.25
+  },
+  {
+   "url": "https://slickdeals.net/f/20306292-59-99-eufy-c37-security-eufycam-2k-wireless-outdoor-camera-solocam-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$60",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 60.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20307528-jiffy-corn-muffin-mix-8-5-oz-box-0-50-walmart-free-pickup-or-delivery-with-walmart-35-orders?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$0.50",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 0.5
+  },
+  {
+   "url": "https://slickdeals.net/f/20301618-15w-energizer-3-in-1-qi-wireless-charging-station-w-rgb-light-12-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$13",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 13.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20307285-gruv-the-super-mario-galaxy-movie-collector-s-edition-4k-blu-ray-digital-13-the-super-mario-bros-movie-4k-blu-ray-15-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$13",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 13.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20297601-59-12-goodyear-reliant-all-season-205-55r16-91v-all-season-tire-fits-2012-13-honda-civic-ex-l-2014-15-honda-civic-ex-at-walmart-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$59.10",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 59.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20308635-barbie-careers-soccer-doll-and-themed-fashions-11-5-in-4-31-free-s-h-w-prime-or-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "title": null,
+   "price": "$4.31",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 4.31
+  },
+  {
+   "url": "https://slickdeals.net/f/20307234-60-card-magic-the-gathering-secrets-of-strixhaven-eerie-theme-deck-13-29-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$13.10",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 13.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20308308-45-nintendo-eshop-50-gift-card-email-delivery-at-newegg?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$50",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 50.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20300778-84w-lisen-4-in-1-retractable-car-charger-w-45w-pd-usb-c-port-10-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$11",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 11.0
+  },
+  {
+   "url": "https://slickdeals.net/f/20308275-sns-ac-6-50-or-5-51-1-7-oz-l-oreal-paris-collagen-moisture-filler-face-moisturizer-fragrance-free-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "title": null,
+   "price": "$6.50",
+   "reg_price": null,
+   "discount_pct": null,
+   "merchant": null,
+   "store": null,
+   "source": "slickdeals_frontpage",
+   "source_label": "Slickdeals",
+   "code": null,
+   "image": null,
+   "found_at": null,
+   "category": "tech",
+   "status": "live",
+   "last_verified": "2026-11-15T13:19:35Z",
+   "current_price": 6.5
   }
  ]
 }
