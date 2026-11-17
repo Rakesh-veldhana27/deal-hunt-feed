@@ -9,72 +9,131 @@
          max-width: 42rem; margin: 2rem auto; padding: 0 1rem; color: #1a1a1a; }
   h1 { font-size: 1.7rem; } h2 { font-size: 1.15rem; margin-top: 1.8rem; }
   .meta { color: #555; }
+  .summary { background: #f3f7f6; border-left: 4px solid #1f8a7a; padding: .6rem 1rem; margin: 1.2rem 0; }
+  table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+  th, td { text-align: left; vertical-align: top; border-bottom: 1px solid #ddd; padding: .4rem .5rem; }
 </style>
 </head>
 <body>
 <h1>Cheppify Privacy Policy</h1>
-<p class="meta">Effective date: November 15, 2026</p>
+<p class="meta">Effective date: November 17, 2026</p>
 
-<p>Cheppify is a voice dictation app for Android. It turns your speech into text on
-your phone and types it into the text field you are using. This policy explains what
-the app does with your information. The short version: <strong>everything stays on
-your phone, and nothing is sent anywhere.</strong></p>
+<div class="summary">
+<p><strong>In short.</strong> Cheppify is a voice dictation app that works entirely on your
+phone. It has no internet permission, no account, no analytics and no ads, so the developer
+never receives your voice, your text, or anything else about you. This page explains what
+the app handles on your phone while it works, and what you can do about it.</p>
+</div>
 
-<h2>No data leaves your phone</h2>
-<p>Cheppify works fully offline. The app does not have the Android INTERNET permission,
-so it cannot send your audio, your text, or anything else over the network. There is no
-account, no sign-in, no analytics, no advertising, and no third-party tracking.</p>
+<h2>1. Who this policy covers</h2>
+<p>This policy applies to the Cheppify app for Android (the "app") and to these pages. In this
+policy "we" and "the developer" mean the independent developer who publishes Cheppify. You can
+reach us using the contact address at the end.</p>
 
-<h2>What the app uses, and why</h2>
+<h2>2. Nothing is sent to us or to anyone else</h2>
+<p>Cheppify works fully offline. The app does not have the Android INTERNET permission, so it
+cannot send your audio, your text, or any other information over the network. There is no
+account or sign-in, no analytics or crash-reporting service, no advertising, and no
+third-party tracking. We do not collect, receive, sell, share or transfer your personal
+information, because it never leaves your phone.</p>
+<p>The speech model and the other software the app needs ship inside the app itself. Turning your
+voice into text happens on your phone, not on a server.</p>
+
+<h2>3. What the app handles on your phone</h2>
+<table>
+<tr><th>What</th><th>Why</th><th>What happens to it</th></tr>
+<tr><td>Your voice (microphone)</td><td>To turn what you say into text while you dictate.</td>
+<td>Recorded to a temporary file in the app's private cache, converted to text on the phone,
+and deleted right after. It is not uploaded or shared.</td></tr>
+<tr><td>The text you dictated</td><td>To type it into the field you are using and to let you copy
+it again.</td><td>The last 30 dictations are kept on the phone so you can tap one to copy it again.
+You can delete them any time (see section 7).</td></tr>
+<tr><td>Which app and text field you are in, the kind of field, and whether the keyboard is open
+and where it sits</td><td>To show the dictation bubble above your keyboard and to hide it in
+fields where dictation does not belong, such as password and PIN boxes.</td>
+<td>Kept in memory only while the bubble is in use. Not stored, not shared.</td></tr>
+<tr><td>Your clipboard</td><td>To type the dictated text into a field, Cheppify briefly puts it on
+the clipboard and pastes it.</td><td>Your previous clipboard content is held in memory for that
+moment and put back afterwards. The dictated text is marked sensitive so keyboards do not keep it
+in their clipboard history. If pasting fails, the dictated text stays on the clipboard so you
+can paste it yourself.</td></tr>
+<tr><td>Your settings (output mode, bubble look and size, and similar)</td><td>To remember your
+choices.</td><td>Stored on the phone.</td></tr>
+<tr><td>Technical logs</td><td>A crash report if the app crashes, and the timing of recent
+dictations, to help find problems.</td><td>Stored on the phone: app version, time, the technical
+error details, and how long each step took. They are not designed to contain what you dictated.
+They are shared only if you tap Share crash log and choose where to send them.</td></tr>
+</table>
+
+<h2>4. The permissions the app asks for</h2>
 <ul>
-  <li><strong>Microphone.</strong> While you dictate, Cheppify records your voice to a
-  temporary file in the app's private cache, turns it into text on the phone using a
-  speech model that ships inside the app, and deletes the recording right after. The
-  recording is not uploaded or shared.</li>
-  <li><strong>Accessibility service.</strong> Cheppify uses an Android accessibility
-  service for one purpose: to know which text field is focused and whether the keyboard
-  is open, so it can show its dictation bubble at the right time and type the dictated
-  words into that field. It does not read the text in any field, does not read your
-  screen content, does not record what you type, and does not collect or store anything
-  from other apps. You turn it on yourself in Android Settings and can turn it off at
-  any time.</li>
-  <li><strong>Display over other apps.</strong> Cheppify draws its small bubble above
-  other apps so you can start dictating from any text field. It draws only its own
-  bubble.</li>
-  <li><strong>Notification and foreground service.</strong> While the bubble is on,
-  Android shows a persistent notification. This is how Android lets a microphone app
-  keep running reliably.</li>
-  <li><strong>Clipboard.</strong> To insert text, Cheppify briefly places it on the
-  clipboard (marked sensitive so keyboards do not keep it in their clipboard history),
-  pastes it, then puts back what you had copied. If inserting fails, the text stays on
-  the clipboard so you can paste it yourself.</li>
+  <li><strong>Microphone.</strong> To hear you while you dictate, as described above. It records
+  only while a dictation is active.</li>
+  <li><strong>Accessibility service.</strong> Cheppify uses an Android accessibility service for
+  one purpose: dictation. It tells the app which text field is focused, what kind of field it is
+  and whether the keyboard is open, so the bubble can appear at the right time, and it types the
+  dictated words into the focused field when you tap the checkmark. It does not read what
+  is written in any field, does not read your screen content, does not record what you type, and
+  does not collect or store anything about other apps. You switch it on yourself in Android
+  Settings and can switch it off at any time. The app explains this to you before it sends you
+  there.</li>
+  <li><strong>Display over other apps.</strong> Cheppify draws its small dictation bubble above
+  other apps. It draws only its own bubble.</li>
+  <li><strong>Notifications and foreground service.</strong> While the bubble is on, Android shows
+  a persistent notification. This is how Android lets a microphone app keep working reliably in the
+  background.</li>
 </ul>
 
-<h2>What is stored on your phone</h2>
+<h2>5. How long things are kept</h2>
+<p>Recordings are deleted right after they are turned into text. Dictation history keeps the last
+30 dictations and removes older ones automatically. Settings and logs stay until you clear them or
+remove the app. Because we hold none of this data, there is nothing for us to keep on our side.</p>
+
+<h2>6. Security</h2>
+<p>Because your data never leaves your phone, the main protection is that there is nothing on a
+server to be breached. Data the app keeps is stored in the app's private storage, which other apps
+cannot normally read, and Android backup is turned off for Cheppify so this data is not copied to
+cloud backups. No method of storing data is completely secure, and the app does not add its own
+encryption on top of what Android provides, so protect your phone with a screen lock. Be aware that
+anything you dictate becomes ordinary text in the app you typed it into, and that app's own
+policies then apply to it.</p>
+
+<h2>7. Your choices and rights</h2>
 <ul>
-  <li>The last 30 dictations, so you can tap one to copy it again. They are not backed
-  up and never leave the phone. Settings has a <em>Clear transcript history</em>
-  button that deletes them.</li>
-  <li>Your settings (for example the output mode, the bubble look and size).</li>
-  <li>A local crash log, if the app crashes. It stays on the phone unless you choose
-  <em>Share crash log</em>, which hands it to the app you pick.</li>
+  <li><strong>Delete your history.</strong> Settings has a Clear transcript history button that
+  deletes the stored dictations.</li>
+  <li><strong>Remove everything.</strong> Uninstalling the app removes everything it stored.</li>
+  <li><strong>Turn permissions off.</strong> You can revoke the microphone permission, switch off the
+  accessibility service, or remove the display-over-apps permission in Android Settings at any
+  time. Dictation then stops working, but nothing else is affected.</li>
+  <li><strong>Access, correction, deletion, objection.</strong> Depending on where you live (for
+  example the European Economic Area, the United Kingdom, or California) the law may give you rights
+  over your personal information. Since we do not collect or hold any of yours, there is nothing we
+  can look up, but you are welcome to write to us with any request or question and we will answer
+  it. You also have the right to complain to your local data protection authority.</li>
+  <li><strong>We do not sell or share your personal information</strong> (including for advertising),
+  and we do not use it to profile you or to make automated decisions about you.</li>
 </ul>
-<p>Android backup is turned off for Cheppify, so this data is not copied to cloud
-backups. Uninstalling the app removes everything it stored.</p>
 
-<h2>Sharing</h2>
-<p>Cheppify does not sell, share, or transfer your data to anyone, because it never
-leaves your phone.</p>
+<h2>8. Third-party software</h2>
+<p>Cheppify includes open-source components and a speech model that run on your phone and do not
+connect to the internet from the app: the Shruti Telugu speech model by Udgam Labs, the sherpa-onnx
+speech engine by the k2-fsa project, ONNX Runtime by Microsoft, and the Lottie animation library by
+Airbnb. They are listed with their licenses under About and licenses in Settings. When you open this policy or the Terms of Service from the app, your phone's web
+browser loads the page; the browser, not Cheppify, makes that connection, and its own privacy
+policy applies to it.</p>
 
-<h2>Children</h2>
-<p>Cheppify is not directed at children under 13 and does not knowingly collect
-information from anyone.</p>
+<h2>9. Children</h2>
+<p>Cheppify is not directed at children under 13 (or under 16 where the law of your country sets
+that age), and it does not knowingly collect information from anyone. If you are a parent or
+guardian and have a question about the app, please contact us.</p>
 
-<h2>Changes to this policy</h2>
-<p>If the app ever changes what it does with data, this page will be updated before that
-change ships, and the effective date above will change.</p>
+<h2>10. Changes to this policy</h2>
+<p>If the app ever changes what it does with data, we will update this page before that change
+ships, and the effective date above will change. If the app ever gains the ability to send data
+off your phone, this policy will say so first. Please check this page from time to time.</p>
 
-<h2>Contact</h2>
-<p>Questions about this policy: <a href="mailto:558rakesh@gmail.com">558rakesh@gmail.com</a></p>
+<h2>11. Contact</h2>
+<p>Questions or requests about this policy: <a href="mailto:558rakesh@gmail.com">558rakesh@gmail.com</a></p>
 </body>
 </html>
